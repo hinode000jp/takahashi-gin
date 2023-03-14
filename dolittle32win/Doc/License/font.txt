@@ -1,0 +1,7 @@
+ドリトルV3.10のテキストエリア及びリストでは、MigMix 1Mフォントを使用しています。
+なおライセンスは、IPAフォントライセンスv1.0 に準じます。
+ライセンスは以下のURLを参照してください。
+http://mix-mplus-ipa.osdn.jp/migmix/IPA_Font_License_Agreement_v1.0.txt IPAフォントライセンスは同フォルダ内のIPA_Font_License_Agreement_v1.0.txtを参照してください。
+
+Copyright (C) 2002-2015 M+ FONTS PROJECT
+Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011.
